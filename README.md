@@ -2,7 +2,7 @@
  <img src="https://github.com/MarcusTechs/MarcusTechs/assets/138902771/5bebb4c9-41ea-4978-bbce-c1b0936fa66e" alt="Bem-vindo ao FreeWay! cursos gratuitos com certificado!"></a>
 </p>
 
-<h3 align="center">Bem-vindo ao FreeWay! cursos gratuitos com certificado!</h3>
+<h3 align="center">Bem-vindo ao FreeCourse! cursos gratuitos com certificado!</h3>
 
 <div align="center">
 
