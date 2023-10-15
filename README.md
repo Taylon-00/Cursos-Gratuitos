@@ -67,7 +67,7 @@
 
 <br>
 
-### Depois de escolher sua xícara de café, você pode fazer uma doação para nos ajudar a lançar nossa própria plataforma de cursos gratuitos!
+### Colabore... Você pode fazer uma doação para nos ajudar a lançar nossa própria plataforma de cursos gratuitos!
 Se você enxerga valor nisso, considere apoiar financeiramente!!
 
 <br>
