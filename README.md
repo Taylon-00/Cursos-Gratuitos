@@ -2,7 +2,7 @@
  <img src="" alt="Logo de Ensino"></a>
 </p>
 
-<h3 align="center">Bem-vindo ao meus projetos do <br>GitHub</br>. Cursos Gratuitos com certificado, logo abaixo!</h3>
+<h3 align="center">Bem-vindo ao meus projetos do GitHub. Cursos Gratuitos com certificado, logo abaixo!</h3>
 
 <div align="center">
 
