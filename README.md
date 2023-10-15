@@ -63,9 +63,11 @@
 
 [![Udemy](https://img.shields.io/badge/Udemy-black?style=for-the-badge&logo=udemy&logoColor=white&color=purple)](https://github.com/MarcusTechs/Free-way/blob/main/Udemy.md)
 
-<br>
-Depois de escolher sua xícara de café, você pode fazer uma doação para nos ajudar a lançar nossa própria plataforma de cursos gratuitos!
+---
 
+<br>
+
+### Depois de escolher sua xícara de café, você pode fazer uma doação para nos ajudar a lançar nossa própria plataforma de cursos gratuitos!
 Se você enxerga valor nisso, considere apoiar financeiramente!!
 
 <br>
