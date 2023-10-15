@@ -2,7 +2,7 @@
  <img src="" alt="Logo de Ensino"></a>
 </p>
 
-<h3 align="center">Bem-vindo ao meus projetos do GitHub. Cursos Gratuitos com certificado, logo abaixo!</h3>
+<h3 align="center">Bem-vindos aos Cursos Gratuitos! Intuito de ampliar seu currículo profissional.</h3>
 
 <div align="center">
 
@@ -18,11 +18,10 @@
 
 ---
 
-<p align = "center">💡 Bem-vindo ao FreeWay! Um projeto que reúne diversos cursos gratuitos de várias plataformas para orientar você no mercado de trabalho.</p>
-<p align = "center">💼Trilhas de aprendizado abrangentes, com cursos que vão desde o nível básico, intermediário e avançado.</p>
-<p align = "center">❓Não achou sua área/curso desejado? abra um issue ou me mande mensagem no linkedin.</p>
-<p align = "center">🌍Navegação simples. Utilize as categorias abaixo para acessar as categorias de cursos.</p>
-<p align = "center">✔️Certificado:Todos os cursos tem certificado gratuito.</p>
+<p align = "center">💡 Um projeto que reúne diversos cursos gratuitos de várias plataformas para orientar você no mercado de trabalho.</p>
+<p align = "center">💼 Trilhas de aprendizado abrangentes, com cursos que vão desde o nível básico, intermediário e avançado.</p>
+<p align = "center">🌍 Navegação simples. Utilize as categorias abaixo para acessar as categorias de cursos.</p>
+<p align = "center">✔️  Certificado:Todos os cursos tem certificado gratuito.</p>
 
 ---
 
