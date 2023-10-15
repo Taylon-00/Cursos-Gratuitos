@@ -8,8 +8,7 @@
 
 | **Nome** | **Plataforma** | **Link** |
 | --- | --- | --- | 
-| **Plataforma de cursos da udemy gratuitos** | Discudemy | [Link](https://www.discudemy.com/?ref) | 
+| **Plataforma de cursos da udemy gratuitos** | Udemy | [Link](https://www.udemy.com/courses/search/?price=price-free&q=cursos+gratu%C3%ADtos&sort=relevance&src=sac) | 
 
-- Cursos que estão gratuitos na UDEMY por tempo limitado(Com certificado)
-- Grande maioria em inglês, alguns com legenda em português.
-- Plataforma discudemy
+- Cursos Gratuitos da plataforma
+### Udemy
