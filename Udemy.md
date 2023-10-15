@@ -8,6 +8,6 @@
 
 | **Nome** | **Plataforma** | **Link** |
 | --- | --- | --- | 
-| **Plataforma de cursos da udemy gratuitos** | Udemy | [Link](https://www.udemy.com/courses/search/?price=price-free&q=cursos+gratu%C3%ADtos&sort=relevance&src=sac) | 
+| **Plataforma de cursos da udemy gratuitos** | Udemy | [Link] target="_blank"(https://www.udemy.com/courses/search/?price=price-free&q=cursos+gratu%C3%ADtos&sort=relevance&src=sac) | 
 
 - Cursos Gratuitos da plataforma Udemy
