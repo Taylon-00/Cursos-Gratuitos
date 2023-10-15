@@ -1,5 +1,5 @@
 <p align="center">
- <img src="" alt="Bem-vindo ao FreeWay! cursos gratuitos com certificado!"></a>
+ <img src="" alt=" cursos gratuitos com certificado!"></a>
 </p>
 
 <h3 align="center">Bem-vindo ao FreeCourse! cursos gratuitos com certificado!</h3>
