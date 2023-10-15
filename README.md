@@ -1,8 +1,8 @@
 <p align="center">
- <img src="" alt=" cursos gratuitos com certificado!"></a>
+ <img src="" alt="Logo de Ensino"></a>
 </p>
 
-<h3 align="center">Bem-vindo ao FreeCourse! cursos gratuitos com certificado!</h3>
+<h3 align="center">Bem-vindo ao meus projetos do <br>GitHub</br>. Cursos Gratuitos com certificado, logo abaixo!</h3>
 
 <div align="center">
 
