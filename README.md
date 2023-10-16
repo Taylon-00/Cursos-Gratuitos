@@ -2,7 +2,7 @@
  <img src="" alt="Logo de Ensino"></a>
 </p>
 
-<h3 align="center">Bem-vindos aos Cursos Gratuitos! Intuito de ampliar seu currículo profissional.</h3>
+<h3 align="center">Bem-vindos aos Cursos Gratuitos! Intuito de ampliar seu currículo profissionalmente.</h3>
 
 <div align="center">
 
