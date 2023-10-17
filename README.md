@@ -2,7 +2,7 @@
  <img src="" alt="Logo de Ensino"></a>
 </p>
 
-<h3 align="center">Bem-vindos aos Cursos Gratuitos! Intuito de ampliar seu currículo profissionalmente.</h3>
+<h3 align="center">Seja Bem-Vindo(a) - Cursos Gratuitos! Intuito de ampliar seu currículo profissionalmente.</h3>
 
 <div align="center">
 
@@ -33,27 +33,27 @@
 
 ### 🔹 Tecnologia
 
-[![Programação](https://img.shields.io/badge/Programa%C3%A7%C3%A3o-black?style=for-the-badge&logo=scala)](https://github.com/MarcusTechs/Free-way/blob/main/Programa%C3%A7%C3%A3o.md)
-[![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-black?style=for-the-badge&logo=Kalilinux)](https://github.com/MarcusTechs/Free-way/blob/main/Cibersegurança.md)
-[![Informática](https://img.shields.io/badge/informatica-black?style=for-the-badge&logo=windows)](https://github.com/MarcusTechs/Free-way/blob/main/Informatica.md)
-[![Office](https://img.shields.io/badge/Office-black?style=for-the-badge&logo=microsoftoffice)](https://github.com/MarcusTechs/Free-way/blob/main/Office.md)
-[![Linux](https://img.shields.io/badge/Linux%20(Em%20Breve)-black?style=for-the-badge&logo=Linux)](https://github.com/MarcusTechs/Free-way/blob/main/Linux.md)
-[![Redes](https://img.shields.io/badge/Redes-black?style=for-the-badge&logo=Cloudflare)](https://github.com/MarcusTechs/Free-way/blob/main/Redes.md)
-[![Design](https://img.shields.io/badge/Design-black?style=for-the-badge&logo=adobePhotoshop)](https://github.com/MarcusTechs/Free-way/blob/main/Design.md)
+[![Programação](https://img.shields.io/badge/Programa%C3%A7%C3%A3o-black?style=for-the-badge&logo=scala)](https://github.com/Taylon-00/Cursos-Gratuitos/blob/main/Programa%C3%A7%C3%A3o.md)
+[![Cibersegurança](https://img.shields.io/badge/Ciberseguran%C3%A7a-black?style=for-the-badge&logo=Kalilinux)](https://github.com/Taylon-00/Cursos-Gratuitos/blob/main/Ciberseguran%C3%A7a.md)
+[![Informática](https://img.shields.io/badge/informatica-black?style=for-the-badge&logo=windows)](https://github.com/Taylon-00/Cursos-Gratuitos/blob/main/Informatica.md)
+[![Office](https://img.shields.io/badge/Office-black?style=for-the-badge&logo=microsoftoffice)](https://github.com/Taylon-00/Cursos-Gratuitos/blob/main/Pacotes%20Office.md)
+[![Linux](https://img.shields.io/badge/Linux%20(Em%20Breve)-black?style=for-the-badge&logo=Linux)]()
+[![Redes](https://img.shields.io/badge/Redes-black?style=for-the-badge&logo=Cloudflare)](https://github.com/Taylon-00/Cursos-Gratuitos/blob/main/Redes.md)
+[![Design](https://img.shields.io/badge/Design-black?style=for-the-badge&logo=adobePhotoshop)](https://github.com/Taylon-00/Cursos-Gratuitos/blob/main/Design.md)
 
 <br>
 
 ### 🔸 Marketing e comunicação
 
-[![Design](https://img.shields.io/badge/Marketing%20Digital-darkblue?style=for-the-badge&logo=blogger)](https://github.com/MarcusTechs/Free-way/blob/main/Marketing.md)
-[![Design](https://img.shields.io/badge/Orat%C3%B3ria-darkblue?style=for-the-badge&logo=wechat)](https://github.com/MarcusTechs/Free-way/blob/main/Oratoria.md)
+[![Design](https://img.shields.io/badge/Marketing%20Digital-darkblue?style=for-the-badge&logo=blogger)](https://github.com/Taylon-00/Cursos-Gratuitos/blob/main/Marketing.md)
+[![Design](https://img.shields.io/badge/Orat%C3%B3ria-darkblue?style=for-the-badge&logo=wechat)](https://github.com/Taylon-00/Cursos-Gratuitos/blob/main/Oratoria.md)
 [![Design](https://img.shields.io/badge/Midias%20Sociais%20(Em%20Breve)-darkblue?style=for-the-badge&logo=instagram)](https://github.com/MarcusTechs/Free-way/blob/main/MidiasSociais.md)
 
 <br>
 
 ### 🔹 Idiomas
 
-[![Design](https://img.shields.io/badge/Ingl%C3%AAs-610B5E?style=for-the-badge&logo=ghost)](https://github.com/MarcusTechs/Free-way/blob/main/Ingles.md)
+[![Design](https://img.shields.io/badge/Ingl%C3%AAs-610B5E?style=for-the-badge&logo=ghost)](https://github.com/Taylon-00/Cursos-Gratuitos/blob/main/Idiomas.md)
 [![Design](https://img.shields.io/badge/Italiano%20(Em%20Breve)-610B5E?style=for-the-badge&logo=ghost&logoColor=red)](https://github.com/MarcusTechs/Free-way/blob/main/Italiano.md)
 [![Design](https://img.shields.io/badge/Espanhol%20(Em%20Breve)-610B5E?style=for-the-badge&logo=ghost&logoColor=yellow)](https://github.com/MarcusTechs/Free-way/blob/main/Espanhol.md)
 
@@ -72,5 +72,5 @@ Se você enxerga valor nisso, considere apoiar financeiramente!!
 
 <br>
 
-[![Doar com PIX](https://img.shields.io/badge/Doar%20com-PIX-purple.svg?style=for-the-badge)](https://nubank.com.br/pagar/ps11e/TtQvCJcSXP)
+[![Doar com PIX](https://img.shields.io/badge/Doar%20com-PIX-purple.svg?style=for-the-badge)]()
 
