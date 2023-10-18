@@ -1,9 +1,8 @@
 <p align="center">
- <img src="" alt="Logo de Ensino"></a>
+ <img src="https://maiscursosgratis.com.br/assets/img/logo.svg" alt="Logo de Ensino" width="20%"></a>
 </p>
-
-<h3 align="center">Seja Bem-Vindo(a) - Cursos Gratuitos! Intuito de ampliar seu currículo profissionalmente.</h3>
-
+<div>
+<span>Cursos Gratuitos</span><h3 style="color: #6bd1ff">Intuito de ampliar seu currículo profissionalmente</h3></div>
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/marcus-erick-874bba268/)
@@ -15,20 +14,18 @@
 <!--   <a href="https://www.producthunt.com/posts/the-documentation-compendium?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-the-documentation-compendium" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=157965&theme=dark&period=daily" alt="The Documentation Compendium - Beautiful README templates that people want to read. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a> -->
 
 </div>
+<p align = ""> Um projeto que reúne diversos cursos gratuitos de várias plataformas para orientar você no mercado de trabalho.</p>
+<p align = ""> Trilhas de aprendizado abrangentes, com cursos que vão desde o nível básico, intermediário e avançado.</p>
+<p align = ""> Navegação simples. Utilize as categorias abaixo para acessar as categorias de cursos.</p>
+<p align = ""> Certificado:Todos os cursos tem certificado gratuito.</p>
 
----
+<!-- Linha de Espaço -->
+<h1></h1>
+<!-- Fim da Linha de Espaço -->
 
-<p align = "center">💡 Um projeto que reúne diversos cursos gratuitos de várias plataformas para orientar você no mercado de trabalho.</p>
-<p align = "center">💼 Trilhas de aprendizado abrangentes, com cursos que vão desde o nível básico, intermediário e avançado.</p>
-<p align = "center">🌍 Navegação simples. Utilize as categorias abaixo para acessar as categorias de cursos.</p>
-<p align = "center">✔️  Certificado:Todos os cursos tem certificado gratuito.</p>
-
----
-
-<h1 align="center">
+<img align="center">
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/c8286843-644d-4da5-b939-a9102e187bb4" alt="Café" width="40px" style="vertical-align: middle;"> Cursos
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/c8286843-644d-4da5-b939-a9102e187bb4" alt="Café" width="40px" style="vertical-align: middle;">
-</h1>
 
 
 ### 🔹 Tecnologia
@@ -63,7 +60,9 @@
 
 [![Udemy](https://img.shields.io/badge/Udemy-black?style=for-the-badge&logo=udemy&logoColor=white&color=purple)](https://github.com/Taylon-00/Cursos-Gratuitos/blob/main/Udemy.md)
 
----
+<!-- Linha de Espaço -->
+<h1></h1>
+<!-- Fim da Linha de Espaço -->
 
 <br>
 
