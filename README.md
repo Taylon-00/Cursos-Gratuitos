@@ -24,7 +24,8 @@
 <!-- Fim da Linha de Espaço -->
 
 <img align="center">
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/c8286843-644d-4da5-b939-a9102e187bb4" alt="Café" width="40px" style="vertical-align: middle;"> Cursos
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/c8286843-644d-4da5-b939-a9102e187bb4" alt="Café" width="40px" style="vertical-align: middle;">
+Cursos
   <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/c8286843-644d-4da5-b939-a9102e187bb4" alt="Café" width="40px" style="vertical-align: middle;">
 
 
