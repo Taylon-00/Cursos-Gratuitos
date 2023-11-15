@@ -10,12 +10,12 @@
   [![GitHub Issues](https://img.shields.io/github/issues/marcustechs/free-way.svg)](https://github.com/Taylon-00/Cursos-Gratuitos)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/marcustechs/free-way.svg)](https://github.com/Taylon-00/Cursos-Gratuitos)
   [![License](https://img.shields.io/badge/licença-MIT-blue.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-
 </div>
-Um projeto que reúne diversos cursos gratuitos de várias plataformas para orientar você no mercado de trabalho.</p>
-Trilhas de aprendizado abrangentes, com cursos que vão desde o nível básico, intermediário e avançado.</p>
-Navegação simples. Utilize as categorias abaixo para acessar as categorias de cursos.</p>
-Finalizado o curso, você terá seu certificado emitido de conclusão.</p>
+
+- Um projeto que reúne diversos cursos gratuitos de várias plataformas para orientar você no mercado de trabalho </p>
+- Trilhas de aprendizado abrangentes, com cursos que vão desde o nível básico, intermediário e avançado </p>
+- Navegação simples. Utilize as categorias abaixo para acessar as categorias de cursos </p>
+- Finalizado o curso, você terá seu certificado emitido de conclusão </p>
 
 <!-- Linha de Espaço -->
 <h1></h1>
