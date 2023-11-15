@@ -7,26 +7,24 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/francisco-taylon-da-silva-534886250/)
   [![Status](https://img.shields.io/badge/status-ativo-success.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/marcustechs/free-way.svg)](https://github.com/MarcusTechs/Free-way)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/marcustechs/free-way.svg)](https://github.com/MarcusTechs/Free-way)
+  [![GitHub Issues](https://img.shields.io/github/issues/marcustechs/free-way.svg)](https://github.com/Taylon-00/Cursos-Gratuitos)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/marcustechs/free-way.svg)](https://github.com/Taylon-00/Cursos-Gratuitos)
   [![License](https://img.shields.io/badge/licença-MIT-blue.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-<!--   <a href="https://www.producthunt.com/posts/the-documentation-compendium?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-the-documentation-compendium" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=157965&theme=dark&period=daily" alt="The Documentation Compendium - Beautiful README templates that people want to read. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a> -->
-
 </div>
-<p align = ""> Um projeto que reúne diversos cursos gratuitos de várias plataformas para orientar você no mercado de trabalho.</p>
-<p align = ""> Trilhas de aprendizado abrangentes, com cursos que vão desde o nível básico, intermediário e avançado.</p>
-<p align = ""> Navegação simples. Utilize as categorias abaixo para acessar as categorias de cursos.</p>
-<p align = ""> Certificado:Todos os cursos tem certificado gratuito.</p>
+Um projeto que reúne diversos cursos gratuitos de várias plataformas para orientar você no mercado de trabalho.</p>
+Trilhas de aprendizado abrangentes, com cursos que vão desde o nível básico, intermediário e avançado.</p>
+Navegação simples. Utilize as categorias abaixo para acessar as categorias de cursos.</p>
+Finalizado o curso, você terá seu certificado emitido de conclusão.</p>
 
 <!-- Linha de Espaço -->
 <h1></h1>
 <!-- Fim da Linha de Espaço -->
 
 <img align="center">
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/c8286843-644d-4da5-b939-a9102e187bb4" alt="Café" width="40px" style="vertical-align: middle;">
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/c8286843-644d-4da5-b939-a9102e187bb4" alt="" width="40px" style="vertical-align: middle;">
 Cursos
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/c8286843-644d-4da5-b939-a9102e187bb4" alt="Café" width="40px" style="vertical-align: middle;">
+  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/c8286843-644d-4da5-b939-a9102e187bb4" alt="" width="40px" style="vertical-align: middle;">
 
 
 ### 🔹 Tecnologia
