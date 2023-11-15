@@ -5,7 +5,7 @@
 <span>Cursos Gratuitos</span><h3 style="color: #6bd1ff">Intuito de ampliar seu currículo profissionalmente</h3></div>
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/marcus-erick-874bba268/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/francisco-taylon-da-silva-534886250/)
   [![Status](https://img.shields.io/badge/status-ativo-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/marcustechs/free-way.svg)](https://github.com/MarcusTechs/Free-way)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/marcustechs/free-way.svg)](https://github.com/MarcusTechs/Free-way)
