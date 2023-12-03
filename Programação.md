@@ -41,11 +41,12 @@
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
 | --- | --- | --- | --- |
-| **Python básico** | DidáticaTech | [Link](https://didatica.tech/curso-de-python-online-para-iniciantes/) | 8 Horas |
-| **Python fundamentos** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico) | 18 Horas |
-| **Algebra com python** | Free code | [Link](https://www.freecodecamp.org/learn/college-algebra-with-python/) | ? |
-| **Python estrutura de dados** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/Desenvolvendo-um-Projeto-Completo-Python-com-Estruturas-de-Dados) | 10 Horas |
-| **Python data science** | Free code | [Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/) | ? |
+| **Python Básico** | SOLYD | [Link](https://solyd.com.br/ead/course/python-basico/) | 5 Horas |
+| **Python Básico** | DidáticaTech | [Link](https://didatica.tech/curso-de-python-online-para-iniciantes/) | 8 Horas |
+| **Python Fundamentos** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/linguagem-de-programacao-python-basico) | 18 Horas |
+| **Algebra com Python** | Free code | [Link](https://www.freecodecamp.org/learn/college-algebra-with-python/) | 130 Aulas |
+| **Python Estrutura de Dados** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/Desenvolvendo-um-Projeto-Completo-Python-com-Estruturas-de-Dados) | 10 Horas |
+| **Python Data Science** | Free code | [Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/) | 80 Aulas |
 
 
 
