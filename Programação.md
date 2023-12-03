@@ -3,7 +3,7 @@
 
 
 <h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/1485/1485287.png" alt="LP" width="50px" style="vertical-align: middle;"> Lógica de programação
+  <img src="https://cdn-icons-png.flaticon.com/512/1485/1485287.png" alt="LP" width="80px" style="vertical-align: middle;"> Lógica de programação
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -12,7 +12,7 @@
 | **Lógica de pgoramação fundamentos** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) | 15 Horas |
 
 <h2>
-  <img src="https://www.pngitem.com/pimgs/m/538-5380039_logo-java-clipart-png-download-java-circle-icon.png" alt="Java" width="50px" style="vertical-align: middle;"> Java
+  <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="Java" width="80px" style="vertical-align: middle;"> Java
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -24,7 +24,7 @@
 | **Introdução ao Java** | Coursera | [Link](https://www.coursera.org/learn/introduccion-java) | 29 Horas |
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/b5e00395-0db4-46f6-aaba-c8868ca0ef74" alt="Web" width="30px" style="vertical-align: middle;"> Web
+  <img src="https://cdn-icons-png.flaticon.com/512/6156/6156283.png" alt="Web" width="80px" style="vertical-align: middle;">  Web
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -36,7 +36,7 @@
 | **Html 5** | Free code | [Link](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | 40 Horas |
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/503fd852-0447-41d6-b3df-e3fabb6a194f" alt="PYTHON" width="30px" style="vertical-align: middle;"> Python
+  <img src="https://www.pngmart.com/files/23/Python-Logo-PNG-Picture.png" alt="Python" width="80px" style="vertical-align: middle;"> Python
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -51,7 +51,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/2090d8a5-2f54-4fae-98fe-3388bc8ee620" alt="sql" width="30px" style="vertical-align: middle;"> SQL
+  <img src="https://media.istockphoto.com/id/1494890874/pt/vetorial/data-mining-icon-data-extraction-icon-data-exploration-icon.jpg?s=2048x2048&w=is&k=20&c=FMl8IgZzydEQNv4ngRX9mGNMJnpNer3HKAqlD_KitMo=" alt="SQL" width="80px" style="vertical-align: middle;"> SQL
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
