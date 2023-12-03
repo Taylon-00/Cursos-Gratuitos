@@ -3,7 +3,7 @@
 
 
 <h2>
-  Lógica de programação
+  <img src="https://cdn-icons-png.flaticon.com/512/1485/1485287.png" alt="LP" width="50px" style="vertical-align: middle;"> Lógica de programação
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
