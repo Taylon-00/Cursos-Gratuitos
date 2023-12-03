@@ -56,4 +56,7 @@
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
 | --- | --- | --- | --- |
-| **SQL básico ao avançado** | BlueSoft | [Link](https://www.softblue.com.br/site/curso/id/3/CURSO+DE+SQL+COMPLETO+BASICO+AO+AVANCADO+ON+LINE+BD03+GRATIS) | 30 Horas |
+| **Curso SQL** | UDEMY | [Link](https://www.udemy.com/course/curso-sql-completo-desafios-e-muita-pratica/) | 15 Horas |
+| **MySQL para Iniciantes** | CURSOU | [Link](https://www.cursou.com.br/informatica/programacao/mysql-iniciantes/) | 10 Horas |
+| **PostgreSQL** | CURSOU | [Link](https://www.cursou.com.br/informatica/programacao/banco-dados-postgresql/) | 8 Horas |
+
