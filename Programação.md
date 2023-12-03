@@ -12,7 +12,7 @@
 | **Lógica de pgoramação fundamentos** | Fundação Bradesco | [Link](https://www.ev.org.br/cursos/fundamentos-de-logica-de-programacao) | 15 Horas |
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/1404a76e-d743-4fa5-89ce-6372ed3912ac" alt="Java" width="30px" style="vertical-align: middle;"> Java
+  <img src="https://www.pngitem.com/pimgs/m/538-5380039_logo-java-clipart-png-download-java-circle-icon.png" alt="Java" width="50px" style="vertical-align: middle;"> Java
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
