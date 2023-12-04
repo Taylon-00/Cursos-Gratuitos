@@ -3,7 +3,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/20b833cb-c6f3-49cf-9256-30a594529111" alt="Design" width="40px" style="vertical-align: middle;"> Photoshop
+  <img src="https://www.pngall.com/wp-content/uploads/2016/07/Photoshop-Logo-Download-PNG.png" alt="Photoshop" width="80px" style="vertical-align: middle;"> Photoshop
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -13,7 +13,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/0524bf0f-3ac5-4d87-9aff-25018e45f87f" alt="cibersegurança" width="40px" style="vertical-align: middle;"> Canva
+  <img src="https://claudiaprazeres.com/wp-content/uploads/2022/05/canva-online-artigo.jpg" alt="Canva" width="80px" style="vertical-align: middle;"> Canva
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -22,7 +22,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/aa7be819-33db-45ed-abd5-63cfea2b9417" alt="cibersegurança" width="40px" style="vertical-align: middle;"> Design
+  <img src="https://cdn-icons-png.flaticon.com/128/3419/3419271.png" alt="Desing" width="80px" style="vertical-align: middle;"> Design
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
