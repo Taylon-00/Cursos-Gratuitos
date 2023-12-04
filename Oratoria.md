@@ -3,7 +3,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/29b3c73c-ab84-4918-8b79-045ca8aeff1b" alt="PYTHON" width="40px" style="vertical-align: middle;"> Oratória
+  <img src="https://img.freepik.com/vetores-premium/pessoas-no-icone-do-podio-em-estilo-comico-ilustracao-em-vetor-de-desenho-animado-de-alto-falante-em-fundo-branco-isolado-conceito-de-negocio-de-efeito-de-respingo-de-orador-de-audiencia_157943-10917.jpg" alt="Oratória" width="80px" style="vertical-align: middle;"> Oratória
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
