@@ -3,7 +3,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/6e96d435-41c8-4d54-8785-44ac159998f9" alt="Java" width="30px" style="vertical-align: middle;"> Informática Básica
+  <img src="https://www.alura.com.br/assets/api/cursos/java-persistencia-dados-consultas-spring-data-jpa.svg" alt="Java" width="50px" style="vertical-align: middle;"> Informática Básica
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -12,7 +12,7 @@
 | **Fundamentos informática** | Cursa | [Link](https://cursa.com.br/home/course/curso-de-inform%C3%A1tica-b%C3%A1sica-completo/33) | 2 Horas |
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/64cc496c-4889-4a86-9bd6-8f96464139c0" alt="Java" width="30px" style="vertical-align: middle;"> Hardware e Software
+  <img src="https://www.alura.com.br/assets/api/cursos/iot-com-nodemcu.svg" alt="Java" width="50px" style="vertical-align: middle;"> Hardware e Software
 </h2>
   
 | **Nome** | **Plataforma** | **Link** | **Horas** |
