@@ -3,7 +3,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/bcb1fb7e-fa06-4337-be0e-1a8e45d70f8d" alt="Design" width="80px" style="vertical-align: middle;"> Udemy
+  <img src="https://cdn.worldvectorlogo.com/logos/udemy-3.svg" alt="Udemy" width="30px" style="vertical-align: middle;"> Udemy
 </h2>
 
 | **Nome** | **Plataforma** | **Link** |
