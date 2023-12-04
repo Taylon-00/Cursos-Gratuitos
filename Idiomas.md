@@ -2,7 +2,7 @@
 
 
 <h2>
-  <img src="https://hotmart.s3.amazonaws.com/product_contents/1893340a-cf58-404e-af4b-2c24c6fe4a85/curso_ingles.png" alt="Inglês" width="80px" style="vertical-align: middle;"> Inglês
+  <img src="https://cdn.icon-icons.com/icons2/4023/PNG/512/usa_us_america_flag_united_states_icon_255810.png" alt="Inglês" width="50px" style="vertical-align: middle;"> Inglês
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
