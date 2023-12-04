@@ -2,7 +2,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/14785067-8450-4307-9a8b-c7945452bcc4" alt="cibersegurança" width="40px" style="vertical-align: middle;"> Cibersegurança
+  <img src="https://www.alura.com.br/assets/api/cursos/seguranca-rede-firewall-waf-siem.svg" alt="Cibersegurança" width="50px" style="vertical-align: middle;"> Cibersegurança
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -15,7 +15,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/e1f3186a-1d85-48fb-b7cc-e6e1df1cc9c0" alt="cibersegurança" width="40px" style="vertical-align: middle;"> Hacking
+  <img src="https://redteam360.com/wp-content/uploads/2021/09/ethical-hacker-junior.png" alt="Hacking" width="80px" style="vertical-align: middle;"> Hacking
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
