@@ -2,7 +2,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/6e98d8fd-83e3-4566-8e92-0d9d2a8325b6" alt="Projetos" width="50px" style="vertical-align: middle;"> Excel
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Projetos" width="50px" style="vertical-align: middle;"> Excel
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
