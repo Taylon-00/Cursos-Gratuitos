@@ -2,7 +2,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/16e668cc-1aa9-4acc-969b-f5ffff162c78" alt="Redes" width="30px" style="vertical-align: middle;"> Rede de Computadores
+  <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/redes-internet-circle-416576a0358f958c51f7cab042625857-5d48cb37edbef.png" alt="RC" width="80px" style="vertical-align: middle;"> Rede de Computadores
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -13,7 +13,7 @@
 | **Fundamentos em redes** | IBSEC | [Link](https://certs.ibsec.com.br/certificacao/certificacao-ibsec-fundamentos-em-redes-100-gratuita/) | 4 Horas |
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/acf846e0-3228-43fa-b024-810ae51fc25c" alt="Gpon" width="30px" style="vertical-align: middle;"> EPON e GPON
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Logomarca_Intelbras_verde.png" alt="Gpon" width="80px" style="vertical-align: middle;"> EPON e GPON
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -23,7 +23,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/3458f41a-af5a-456e-95c9-5d3605a3cf15" alt="Gpon" width="30px" style="vertical-align: middle;"> Wi-Fi
+  <img src="https://www.alura.com.br/assets/api/cursos/redes-conceitos-iniciais-criacao-intranet.svg" alt="Wi-Fi" width="50px" style="vertical-align: middle;"> Wi-Fi
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -31,7 +31,7 @@
 | **Wi-Fi 6** | Intelbras Itec| [Link](https://cursos.intelbras.com.br/portal/layout/927/intelbras/pg_interna_sistema.asp?aW5jbHVkZT1jYXRhbG9nby9jdXJzb3Nfdmlldy5hc3AmQ3Vyc29JRD02MDQ3Jmt0X2RpZGF4aXM9dG9w) | 2 Horas |
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/1062d110-656a-49a2-b397-32130457bd26" alt="Gpon" width="35px" style="vertical-align: middle;"> Mikrotik
+  <img src="https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177" alt="Mikrotik" width="50px" style="vertical-align: middle;"> Mikrotik
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
