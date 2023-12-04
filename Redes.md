@@ -2,7 +2,7 @@
 
 
 <h2>
-  <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/redes-internet-circle-416576a0358f958c51f7cab042625857-5d48cb37edbef.png" alt="RC" width="80px" style="vertical-align: middle;"> Rede de Computadores
+  <img src="https://cdn.icon-icons.com/icons2/82/PNG/128/devices_network_wireless_15706.png" alt="RC" width="80px" style="vertical-align: middle;"> Rede de Computadores
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -23,7 +23,7 @@
 
 
 <h2>
-  <img src="https://www.alura.com.br/assets/api/cursos/redes-conceitos-iniciais-criacao-intranet.svg" alt="Wi-Fi" width="50px" style="vertical-align: middle;"> Wi-Fi
+  <img src="https://cdn.icon-icons.com/icons2/452/PNG/256/Wi-Fi_43577.png" alt="Wi-Fi" width="80px" style="vertical-align: middle;"> Wi-Fi
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
