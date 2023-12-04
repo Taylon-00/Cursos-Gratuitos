@@ -2,9 +2,9 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/53129a02-3a93-4ff6-947f-fe13c31dac10" alt="Idiomas" width="30px" style="vertical-align: middle;"> Inglês
+  <img src="https://hotmart.s3.amazonaws.com/product_contents/1893340a-cf58-404e-af4b-2c24c6fe4a85/curso_ingles.png" alt="Inglês" width="80px" style="vertical-align: middle;"> Inglês
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
 | --- | --- | --- | --- |
-| **Inglês completo** | Kultivi | [Link](https://kultivi.com/cursos/idiomas/ingles) | ? Horas |
+| **Inglês** | Kultivi | [Link](https://kultivi.com/cursos/idiomas/ingles) | 15 Horas |
