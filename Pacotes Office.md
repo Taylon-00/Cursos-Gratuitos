@@ -2,7 +2,7 @@
 
 
 <h2>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Projetos" width="50px" style="vertical-align: middle;"> Excel
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_excel_macos_bigsur_icon_189980.png" alt="Projetos" width="50px" style="vertical-align: middle;"> Excel
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
