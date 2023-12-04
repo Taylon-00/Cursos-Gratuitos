@@ -3,7 +3,7 @@
 
 
 <h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/1485/1485287.png" alt="LP" width="80px" style="vertical-align: middle;"> Lógica de programação
+  <img src="https://cdn.icon-icons.com/icons2/1537/PNG/512/1562687-code-computer-creative-html-process-technology-web-development_107058.png" alt="LP" width="80px" style="vertical-align: middle;"> Lógica de programação
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -24,7 +24,7 @@
 | **Introdução ao Java** | Coursera | [Link](https://www.coursera.org/learn/introduccion-java) | 29 Horas |
 
 <h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/6156/6156283.png" alt="Web" width="80px" style="vertical-align: middle;">  Web
+  <img src="https://cdn.icon-icons.com/icons2/82/PNG/128/apps_web_browser_15742.png" alt="Web" width="80px" style="vertical-align: middle;">  Web
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -36,7 +36,7 @@
 | **Html 5** | Free code | [Link](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | 40 Horas |
 
 <h2>
-  <img src="https://www.pngmart.com/files/23/Python-Logo-PNG-Picture.png" alt="Python" width="80px" style="vertical-align: middle;"> Python
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" alt="Python" width="80px" style="vertical-align: middle;">
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -51,7 +51,7 @@
 
 
 <h2>
-  <img src="https://media.istockphoto.com/id/1494890874/pt/vetorial/data-mining-icon-data-extraction-icon-data-exploration-icon.jpg?s=2048x2048&w=is&k=20&c=FMl8IgZzydEQNv4ngRX9mGNMJnpNer3HKAqlD_KitMo=" alt="SQL" width="80px" style="vertical-align: middle;"> SQL
+  <img src="https://cdn.icon-icons.com/icons2/143/PNG/256/web_database_21013.png" alt="SQL" width="80px" style="vertical-align: middle;"> SQL
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
