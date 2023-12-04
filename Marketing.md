@@ -3,7 +3,7 @@
 
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/56a31266-182b-4fcd-996b-c4d8f8189ebd" alt="PYTHON" width="40px" style="vertical-align: middle;"> Marketing Digital
+  <img src="https://cdn-icons-png.flaticon.com/512/8026/8026439.png" alt="Marketing Digital" width="80px" style="vertical-align: middle;"> Marketing Digital
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -13,7 +13,7 @@
 | **Fundamentos Marketing Digital** | Google Atelie | [Link](https://skillshop.exceedlms.com/student/collection/730709-digital-marketing) | ? Horas |
 
 <h2>
-  <img src="https://github.com/MarcusTechs/Free-way/assets/138902771/043e9ab5-f845-4120-a3d1-be60cb08c6d0" alt="PYTHON" width="40px" style="vertical-align: middle;"> Tráfego e Trade
+  <img src="https://assets-global.website-files.com/5cc19fbd198b8d31a9c64876/65017f80f255dded9f43fe49_Group%205299.png" alt="Trade" width="80px" style="vertical-align: middle;"> Tráfego e Trade
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
