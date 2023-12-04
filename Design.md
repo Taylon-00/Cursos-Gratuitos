@@ -3,7 +3,7 @@
 
 
 <h2>
-  <img src="https://www.pngall.com/wp-content/uploads/2016/07/Photoshop-Logo-Download-PNG.png" alt="Photoshop" width="80px" style="vertical-align: middle;"> Photoshop
+  <img src="https://cdn.icon-icons.com/icons2/159/PNG/256/photoshop_22512.png" alt="Photoshop" width="50px" style="vertical-align: middle;"> Photoshop
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
