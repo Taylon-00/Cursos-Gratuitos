@@ -13,7 +13,7 @@
 
 
 <h2>
-  <img src="https://claudiaprazeres.com/wp-content/uploads/2022/05/canva-online-artigo.jpg" alt="Canva" width="80px" style="vertical-align: middle;"> Canva
+  <img src="https://cdn.icon-icons.com/icons2/3504/PNG/512/canva_icon_220714.png" alt="Canva" width="50px" style="vertical-align: middle;"> Canva
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
@@ -22,7 +22,7 @@
 
 
 <h2>
-  <img src="https://cdn-icons-png.flaticon.com/128/3419/3419271.png" alt="Desing" width="80px" style="vertical-align: middle;"> Design
+  <img src="https://cdn.icon-icons.com/icons2/3606/PNG/512/sculpture_statue_texture_futuristic_art_geometry_organic_abstract_shape_explode_shae_icon_226543.png" alt="Desing" width="50px" style="vertical-align: middle;"> Design
 </h2>
 
 | **Nome** | **Plataforma** | **Link** | **Horas** |
